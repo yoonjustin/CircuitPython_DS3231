@@ -1,3 +1,8 @@
+Fork Information
+================
+I forked the DS3231 adafruit project because it didnt support the 12/24h mode. The standard library has no support for the feature and it changes how the hour is interpreted when it is turned on. Also alarm enable/disable functionality is missing as well. Hopefully if this branch works out, I can contribute back to the main branch some additional features. 
+
+
 Introduction
 =============
 
